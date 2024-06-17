@@ -1,0 +1,6 @@
+path: C:\Users\Zidan\OneDrive\Desktop\finale\Task 2 and 3
+train: datasets\train
+val: datasets\valid
+
+names:
+  0: person
