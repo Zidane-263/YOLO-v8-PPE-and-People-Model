@@ -30,15 +30,7 @@ pip install -r requirements.txt
 # Collecting Data
 You will need a dataset containing images with annotations for PPE and persons. The dataset should be organized as follows:
 
-dataset/
-  images/
-    train/
-    val/
-    test/
-  labels/
-    train/
-    val/
-    test/
+![image](https://github.com/Zidane-263/YOLO-v8-PPE-and-People-Model/assets/145212977/39807931-47b0-46b7-a4c5-bae4b965a9c9)
 
 Each subdirectory in images contains the corresponding images, and the subdirectories in labels contain the annotation files in YOLO format.
 
