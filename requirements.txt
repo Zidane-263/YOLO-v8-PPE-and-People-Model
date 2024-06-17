@@ -1,0 +1,4 @@
+Prerequisites
+Python 3.8 or higher
+PyTorch 1.7 or higher
+CUDA 10.1 or higher
